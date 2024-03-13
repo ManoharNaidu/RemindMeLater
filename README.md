@@ -27,7 +27,7 @@ cd remind-me-later
 
 Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirmentss.txt
 ```
 
 Run migrations:
